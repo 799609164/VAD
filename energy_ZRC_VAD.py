@@ -57,7 +57,7 @@ def calZeroCrossingRate(wave_data) :
         elif i == len(wave_data) - 1 :
             zeroCrossingRate.append(float(sum) / 255)
     
-    return normalize(zeroCrossingRate)
+    return zeroCrossingRate
 
 # 利用短时能量，短时过零率，使用双门限法进行端点检测
 def endPointDetect(wave_data, energy, zeroCrossingRate) :
@@ -149,7 +149,6 @@ def result_plot(wave_data, sr, energy, zeroCrossingRate, wave_detect):
     plt.subplot(3, 1, 3)
     plt.plot(x2,zeroCrossingRate)
     plt.title("zero crossing rate")
-    plt.ylim(0,1)
 
     plt.tight_layout()
     plt.show()
