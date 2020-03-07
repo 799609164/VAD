@@ -8,7 +8,7 @@
 
 ## 使用说明
 
-直接 `python SVM_VAD` 即可
+直接 `python SVM_VAD.py` 即可
 
 下图为 `test.wav` 文件的检测结果
 

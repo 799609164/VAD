@@ -20,7 +20,7 @@
 
 ## 使用说明
 
-直接 `python energy_ZRC_VAD` 即可
+直接 `python energy_ZRC_VAD.py` 即可
 
 本项目仅对参考项目的结果进行了可视化
 
