@@ -1,0 +1,28 @@
+{
+  "speech_segments": [
+    {
+      "start_time": 0.00, 
+      "end_time": 1.639
+    }, 
+    {
+      "start_time": 1.852, 
+      "end_time": 2.133
+    }, 
+    {
+      "start_time": 2.512, 
+      "end_time": 2.906
+    }, 
+    {
+      "start_time": 3.266, 
+      "end_time": 3.777
+    }, 
+    {
+      "start_time": 3.994, 
+      "end_time": 5.156
+    }, 
+    {
+      "start_time": 5.276, 
+      "end_time": 5.652
+    }
+  ]
+}

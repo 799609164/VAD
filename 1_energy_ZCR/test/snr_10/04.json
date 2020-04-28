@@ -1,0 +1,20 @@
+{
+  "speech_segments": [
+    {
+      "start_time": 0.0, 
+      "end_time": 0.840
+    }, 
+    {
+      "start_time": 1.769, 
+      "end_time": 2.404
+    }, 
+    {
+      "start_time": 2.74, 
+      "end_time": 3.174
+    },
+    {
+      "start_time": 3.338, 
+      "end_time": 4.709
+    }
+  ]
+}
